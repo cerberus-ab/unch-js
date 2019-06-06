@@ -1,7 +1,7 @@
 # Unexpected Challenged JavaScript
 This is a compilation of weird and bizzare JavaScript challenges.
 
-## Challenges
+## Problems
 [The Shortest Memoization](problems/1.md/#the-shortest-memoization)  
 [Braces Obfuscation](problems/2.md/#braces-obfuscation)  
 [Snowing day](problems/3.md/#snowing-day)  
