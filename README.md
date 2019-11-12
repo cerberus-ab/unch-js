@@ -12,3 +12,4 @@ Contains different problems which require understanding of the nature of JavaScr
 [Countdown Expression](problems/4.md/#countdown-expression)  
 [Done by Ones](problems/5.md/#done-by-ones)  
 [Broken Pipe](problems/6.md#broken-pipe)  
+[Look Complex](problems/7.md#look-complex)  
