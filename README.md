@@ -14,3 +14,4 @@ Contains different problems which require understanding of the nature of JavaScr
 [Broken Pipe](problems/6.md#broken-pipe)  
 [Look Complex](problems/7.md#look-complex)  
 [Find X](problems/8.md#find-x)  
+[Anonymous Handler](problems/9.md#anonymous-handler)  
